@@ -1,14 +1,14 @@
 {
     "type": "library",
-    "name": "nguyenanhung/template-php-lib",
-    "description": "Template for repository helper, library - Basic, Simple and Lightweight",
+    "name": "nguyenanhung/php-cli-helper",
+    "description": "PHP Command Line Interface Helper - Basic, Simple and Lightweight",
     "keywords": [
-        "template",
+        "cli",
         "helper",
         "library",
         "php"
     ],
-    "homepage": "https://github.com/nguyenanhung/template-php-lib",
+    "homepage": "https://github.com/nguyenanhung/php-cli-helper",
     "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "nguyenanhung\\Libraries\\TemplateREPLACE\\": "src/"
+            "nguyenanhung\\Libraries\\CLIHelper\\": "src/"
         },
         "files": [
             "helpers/helpers.php"
