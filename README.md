@@ -1,4 +1,9 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/php-cli-helper/v)](https://packagist.org/packages/nguyenanhung/php-cli-helper) [![Total Downloads](http://poser.pugx.org/nguyenanhung/php-cli-helper/downloads)](https://packagist.org/packages/nguyenanhung/php-cli-helper) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/php-cli-helper/v/unstable)](https://packagist.org/packages/nguyenanhung/php-cli-helper) [![License](http://poser.pugx.org/nguyenanhung/php-cli-helper/license)](https://packagist.org/packages/nguyenanhung/php-cli-helper) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/php-cli-helper/require/php)](https://packagist.org/packages/nguyenanhung/php-cli-helper)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/php-cli-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/php-cli-helper)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/php-cli-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/php-cli-helper)
+[![Daily Downloads](https://img.shields.io/packagist/dd/nguyenanhung/php-cli-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/php-cli-helper)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/nguyenanhung/php-cli-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/php-cli-helper)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/php-cli-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/php-cli-helper)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/php-cli-helper/php)](https://packagist.org/packages/nguyenanhung/php-cli-helper)
 
 # PHP CLI Helper
 
